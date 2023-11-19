@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @rportellesT
+- 👀 I’m interested in websities development
+- technologies in which I develop
+- HTML5
+- CSS
+- JAVASCRIPT
+- REACT
+- I am looking to collaborate in companies that promote quality development and continuous learning.
+- 📫 How to reach me https://www.linkedin.com/in/roimer-portelles-6669a9294![Sin título](https://github.com/rportelles/rportelles/assets/125062701/7556a8b1-60f4-476a-a63c-32f98f8f903c)
